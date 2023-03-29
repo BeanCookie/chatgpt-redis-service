@@ -1,4 +1,4 @@
-module cn.lzzz.chatgpt
+module github.com/beancookie/chatgpt-redis-service
 
 go 1.20
 
